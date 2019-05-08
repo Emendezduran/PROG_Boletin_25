@@ -6,6 +6,8 @@ public class PROG_Boletin_25 {
         
         Ventana1 v1 = new Ventana1();
         v1.setVisible(true);
+        Ventana2 v2 = new Ventana2();
+        v2.setVisible(true);
     }
     
 }
